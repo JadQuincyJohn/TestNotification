@@ -1,0 +1,11 @@
+{
+    "Simulator Target Bundle": "com.inertia.TestNotification",
+    "aps": {
+        "alert": {
+            "title": "This is a test",
+            "body": "This is a body"
+        },
+        "sound": "default",
+        "badge": 1
+    }
+}
